@@ -71,7 +71,7 @@
               });
               
               AOS.init({
-                duration: 2500,
+                duration: 600, // Duracao do efeito
                 once: true,
             })
 
